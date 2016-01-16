@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1) instalar chrome
 2) actualizar linux con:
     sudo apt-get update
@@ -18,3 +19,6 @@ Conocimientos de Yess
 ----------------------
 *PHP POO
 *Composer
+=======
+# TwinsEstudios
+>>>>>>> de1e596cf1525aaefd42b799f9c1fb9f80ddad56
